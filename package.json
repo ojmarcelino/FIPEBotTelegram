@@ -1,0 +1,30 @@
+{
+  "name": "fipe_bot",
+  "version": "0.0.1",
+  "description": "Bot para pesquisa na tabela FIPE",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julianomarcelino/FIPEBotTelegram.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "API",
+    "FIPE",
+    "TABELA FIPE"
+  ],
+  "author": "Bruno da Silva Valenga <brunodasilvalenga@gmail.com>, Juliano <email@juliano.com>, Rubens Felipe <email@rubens.com>",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Naltox/FIPEBotTelegram/issues"
+  },
+  "homepage": "https://github.com/julianomarcelino/FIPEBotTelegram",
+  "dependencies": {
+    "telegram-node-bot": "2.1.2",
+    "request": "latest"
+  }
+}
